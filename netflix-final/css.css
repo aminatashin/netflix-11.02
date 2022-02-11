@@ -1,0 +1,45 @@
+.navbar {
+  height: 60px;
+  position: sticky;
+  top: 0;
+
+  color: white;
+  justify-content: flex-start !important;
+}
+img {
+  max-width: 100px;
+  max-height: 100px;
+}
+.position {
+  position: absolute;
+  right: 140px;
+}
+.kids {
+  position: absolute;
+  right: 95px;
+}
+#kidimg {
+  position: absolute;
+  right: 20px;
+}
+.kidimg22 {
+  max-height: 100px;
+  max-width: 100px;
+  width: 25px;
+  height: 25px;
+}
+
+.button1 {
+  border: 0 !important;
+  font-size: small;
+}
+
+.link {
+  font-size: small;
+  /* align-items: flex-end;
+  display: inline-block; */
+}
+.button2 {
+  font-size: small;
+  font-stretch: narrower;
+}
